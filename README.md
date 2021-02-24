@@ -32,7 +32,7 @@ or simple press "build and upload" in platformIO.
 
 
 # Contributors
-
+These are the original contributers. While they didn't help with creating the FoxV1 app part of the watch, they did create the underlying os and deserve recognition for their work. 
 Special thanks to the following people for their help:
 
 [5tormChild](https://github.com/5tormChild)<br>
